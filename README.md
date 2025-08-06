@@ -12,7 +12,7 @@ As the Main Control Logic Lead, my responsibility is to develop the central syst
 - **State Machine Diagram:**  
   A visual representation of the system's core control states, including the detection of packages at sensors, sorting decisions based on weight and color, and resetting package states after sorting.
 
-  ![State Machine Diagram](state_machine_diagram.png)
+  ![State Machine Diagram](https://github.com/Prabhudev2004/Automated-Industrial-Sorting-System-Simulation/blob/e34cb132f965aec80fe9e3fba4dbf79a5f1b7b53/Screenshot%202025-08-06%20160343.png)
 
 - **Initial Simulation Code:**  
   A Pygame-based Python simulation demonstrating package movement on conveyor belts, sensor detection logic (weight and color), sorting decisions, and basic logging of events.

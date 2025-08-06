@@ -24,11 +24,8 @@ As the Main Control Logic Lead, my responsibility is to develop the central syst
 
 3. The simulation window will open showing moving packages, sensor lines, and real-time sorting actions.
 
-## Project Structure
+![simulation output](https://github.com/Prabhudev2004/Automated-Industrial-Sorting-System-Simulation/blob/46cd8b97bd9c25c7c04756f82e28bacadafa4e4f/Screenshot%202025-08-06%20154055.png)
 
-- `simulation.py` — Main simulation code with package sorting logic.
-- `state_machine_diagram.png` — State machine diagram illustrating control logic.
-- `README.md` — This file providing project summary.
 
 ## Summary of State Machine
 
@@ -41,13 +38,7 @@ The system cycles through these states:
 - **Sorting by Color**: Final bin is assigned based on color.
 - **Exit/Reset**: Package leaves system and readies for the next cycle.
 
-## Logging and Controls
 
-- Sorting decisions are logged in `system.log`.
-- Use keyboard arrows to control belt speed.
-- Keys `w`/`e` and `c`/`v` move weight and color sensors, respectively.
-
----
 
 
 

@@ -49,5 +49,5 @@ The system cycles through these states:
 
 ---
 
-Feel free to reach out if you have any questions or need further improvements!
+
 
